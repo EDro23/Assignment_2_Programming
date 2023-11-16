@@ -4,6 +4,9 @@
 Created on Tue Nov 14 11:44:48 2023
 
 @author: ethandrover
+
+The Wizard Program
+
 """
 
 import random
